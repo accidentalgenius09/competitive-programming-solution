@@ -8,4 +8,3 @@ function Rectangle(a, b) {
     this.area = this.length * this.width;
 }
 const rec = new Rectangle(4,5);
-console.log(rec.perimeter);
